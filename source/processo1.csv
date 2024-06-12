@@ -1,26 +1,71 @@
 id_projeto,nome_projeto,nome_cliente,endereço_cliente,telefone_cliente,cpf_cliente,orcamento,orcamento_em,previsao_entrega_em,valor_devido,meio_pagamento,pago,pago_em,limite_orcamento,material_comprado,projeto_finalizado_em,material_comprado_em,gestor,observacao
-15,Ilumina Soluções,Luís Rodrigues Lima,"Rua Luzia Machado Saldão, 1741 - Recife, PE",(12) 7111-2594,"124.430.347-04",65.441,2024-04-06 20:30:00,2024-11-06 6:50:00,3.056,PIX,FALSE,,80000,FALSE,nil,nil,Sueli Carolina Josefa Moura,não conseguimos avançar mais devido à problemas de infraestrutura no local da obra
-94,EducaMais,"Larissa Dias Araujo","Rua 62, 1334 - Manaus, AM","(92) 9335-9258","971.052.904-80",597.254,2024-04-06 20:00:00,2024-09-18 8:00:00,126,BOLETO,FALSE,nil,600000,TRUE,2024-09-18 8:00:00,2024-05-18 8:00:00,Anderson Pedro Henrique Assis,
-46,BrasilBio,"Vitor Oliveira Cardoso","Rua Onázio Nery da Silva, 1727 - Juiz de Fora, MG","(32) 4158-4077","105.099.434-54",76.964,2023-12-15 14:20:00,2024-02-02 10:20:00,0,PIX,TRUE,2023-01-12 8:00:00,100000,TRUE,2024-06-02 10:20:00,2024-02-02 10:20:00,Isabella Mariah Jennifer Carvalho,
-18,Conexão Azul,Joana Cunha Fernandes,"Rua Doutor José Dutra, 623 - Fortaleza, CE",(85) 9312-3069,"167.692.178-80",447.097,2022-09-25 10:45:00,2023-06-22 13:00:00,2.183,CARTAO_DEBITO,FALSE,nil,500000,TRUE,nil,2023-03-22 13:00:00,Alexandre Leonardo Erick da Cunha,"o cliente não ficou satisfeito com o resultado final, por isso, precisamos adicionar um desconto e refazer"
-25,InovaTech,"André Barros Cunha","Rua Pavoncine, 1341 - Arapongas, PR","(43) 8545-8896","223.567.831-99",165.041,2022-11-10 16:35:00,2023-07-25 9:45:00,0,BOLETO,TRUE,2022-11-20 9:00:00,170000,nil,nil,nil,Isabella Mariah Jennifer Carvalho,
-71,Expresso Saúde,"Gabrielly Pereira Carvalho","Rua Maragogipe, 1113 - Feira de Santana, BA","(75) 5136-7412","667.882.338-96",860.66,2023-01-05 9:15:00,2024-03-12 8:30:00,752,CARTAO_CREDITO,FALSE,nil,900000,TRUE,nil,...,Sueli Carolina Josefa Moura,
-52,Bio Energia,"Kauan Cardoso Ferreira","Rua 9, 959 - Goiânia, GO","(62) 5172-3849","585.691.508-90",337.996,2023-03-22 18:40:00,2024-01-15 17:30:00,8.94,CARTAO_DEBITO,FALSE,nil,350000,TRUE,2024-01-15 17:30:00,2023-05-15 17:30:00,Luana Isabelle Aparício,
-69,EcoFashion,"Lavinia Martins Gomes","Rua Itabirito, 1677 - São Paulo, SP","(11) 9471-9383","105.891.291-71",252.325,2023-05-07 13:00:00,2024-05-08 15:35:00,0,BOLETO,TRUE,2023-06-10 15:15:00,260000,TRUE,nil,2024-03-08 15:35:00,Samuel Osvaldo Fernandes,
-87,AquaPiscinas,"Douglas Fernandes Oliveira","Avenida Epaminondas, 969 - Manaus, AM","(92) 8010-5467",688.524.618-25,53.285,2023-07-29 21:55:00,2024-10-09 8:30:00,0,CARTAO_CREDITO,TRUE,2023-08-13 20:00:00,60000,nil,nil,nil,Isabella Mariah Jennifer Carvalho,
-62,VivaBem,"Mateus Sousa Barbosa","Rua Umbelina Gomes Vilaça, 1815 - Franca, SP","(16) 6335-5320","683.755.264-36",218.21,2023-02-12 7:30:00,2024-07-07 15:45:00,8.441,PIX,FALSE,nil,220000,TRUE,2024-07-07 12:45:00,2024-05-07 15:45:00,Letícia Vera Corte Real,
-42,Turbo Logística,"Carla Goncalves Silva","Rua Madre Tereza de Calcutá, 1817 - Goiânia, GO",(62) 8528-3332,125.927.423-36,329.457,2023-11-18 11:25:00,2024-04-13 9:00:00,37.549,CARTAO_CREDITO,FALSE,nil,350000,nil,2024-04-13 9:00:00,nil,Sueli Carolina Josefa Moura,
-96,Sabor Culinário,"Bruna Rodrigues Correia","Quadra SHCES Quadra 0607 Bloco B, 632 - Cruzeiro, DF","(61) 6455-4723","743.373.338-86",75.797,2023-12-30 15:10:00,2024-06-07 12:15:00,2.939,PARCELADO,FALSE,nil,80000,TRUE,nil,2024-03-07 12:15:00,Alexandre Leonardo Erick da Cunha,
-81,Arte Viva,Igor Rodrigues Lima,"Praça Rui Barbosa, 1400 - Indaiatuba, SP","(19) 6487-8675",141.994.355-30,514.93,2022-04-10 8:50:00,2023-05-15 7:30:00,0,BOLETO,TRUE,2022-04-25 9:25:00,520000,TRUE,2023-05-15 7:30:00,2023-01-15 7:30:00,Luana Isabelle Aparício,
-55,Soluções Digitais,"Julieta Lima Sousa","Rua Joel Nascimento Santos, 1652 - Guarujá, SP","(13) 3692-5104","809.184.594-43",84.791,2022-06-20 17:25:00,2024-08-12 16:00:00,405,CARTAO_CREDITO,FALSE,nil,90000,nil,nil,nil,Samuel Osvaldo Fernandes,
-65,MixCriativo,"Marcos Melo Martins","Rua Professora Alice Simões Pires, 1655 - Santa Cruz do Sul, RS","(51) 3430-4711","283.179.859-03",159.337,2022-08-07 12:15:00,2023-05-01 10:10:00,4.044,CARTAO_CREDITO,FALSE,nil,170000,TRUE,2023-05-01 10:10:00,2023-03-01 10:10:00,Samuel Osvaldo Fernandes,
-23,GreenWay,"Nicolas Barbosa Cardoso","Avenida Cibam, 728 - Franco da Rocha, SP",(11) 8470-3969,"263.716.604-54",27.21,2022-10-15 20:30:00,2024-09-13 13:35:00,0,PIX,TRUE,2022-10-30 9:10:00,30000,TRUE,nil,2024-07-13 13:35:00,Sueli Carolina Josefa Moura,
-68,Leve Vida,"Amanda Almeida Castro","Rua São Gabriel, 1503 - Varginha, MG","(35) 2288-3184",272.817.985-98,285.934,2023-02-28 9:55:00,2024-11-19 16:00:00,2.576,CARTAO_DEBITO,FALSE,nil,290000,nil,nil,nil,Isabella Mariah Jennifer Carvalho,
-18,Saúde 360,"Carlos Dias Fernandes","Rua Turmalina, 644 - Governador Valadares, MG","(33) 4365-2260","730.787.438-53",944.502,2023-04-18 14:40:00,2025-02-20 9:40:00,25.988,PARCELADO,FALSE,nil,1000000,TRUE,nil,2025-01-20 9:40:00,Anderson Pedro Henrique Assis,"precisamos processar esse projeto com calma, é muito extenso"
-49,Up Engenharia ,"Otávio Araujo Goncalves","Travessa Riobamba, 848 - Rio de Janeiro, RJ",(21) 9301-6390,"325.931.677-93",463.209,2023-06-10 11:20:00,2024-02-07 8:15:00,0,BOLETO,TRUE,2023-06-15 17:40:00,500000,TRUE,2024-02-07 8:15:00,2024-01-07 8:15:00,Alexandre Leonardo Erick da Cunha,
+15,Ilumina Soluções,Luís Rodrigues Lima,"Rua Luzia Machado Saldão, 1741 - Recife, PE",(12) 7111-2594,"124.430.347-04
+",65.441,2024-04-06 20:30:00,2024-11-06 6:50:00,3.056,PIX,FALSE,,80000,FALSE,nil,nil,Sueli Carolina Josefa Moura,não conseguimos avançar mais devido à problemas de infraestrutura no local da obra
+94,EducaMais,"Larissa Dias Araujo
+","Rua 62, 1334 - Manaus, AM","(92) 9335-9258
+","971.052.904-80
+",597.254,2024-04-06 20:00:00,2024-09-18 8:00:00,126,BOLETO,FALSE,nil,600000,TRUE,2024-09-18 8:00:00,2024-05-18 8:00:00,Anderson Pedro Henrique Assis,
+46,BrasilBio,"Vitor Oliveira Cardoso
+","Rua Onázio Nery da Silva, 1727 - Juiz de Fora, MG","(32) 4158-4077
+","105.099.434-54
+",76.964,2023-12-15 14:20:00,2024-02-02 10:20:00,0,PIX,TRUE,2023-01-12 8:00:00,100000,TRUE,2024-06-02 10:20:00,2024-02-02 10:20:00,Isabella Mariah Jennifer Carvalho,
+18,Conexão Azul,Joana Cunha Fernandes,"Rua Doutor José Dutra, 623 - Fortaleza, CE",(85) 9312-3069,"167.692.178-80
+",447.097,2022-09-25 10:45:00,2023-06-22 13:00:00,2.183,CARTAO_DEBITO,FALSE,nil,500000,TRUE,nil,2023-03-22 13:00:00,Alexandre Leonardo Erick da Cunha,"o cliente não ficou satisfeito com o resultado final, por isso, precisamos adicionar um desconto e refazer"
+25,InovaTech,"André Barros Cunha
+","Rua Pavoncine, 1341 - Arapongas, PR","(43) 8545-8896
+","223.567.831-99
+",165.041,2022-11-10 16:35:00,2023-07-25 9:45:00,0,BOLETO,TRUE,2022-11-20 9:00:00,170000,nil,nil,nil,Isabella Mariah Jennifer Carvalho,
+71,Expresso Saúde,"Gabrielly Pereira Carvalho
+","Rua Maragogipe, 1113 - Feira de Santana, BA","(75) 5136-7412
+","667.882.338-96
+",860.66,2023-01-05 9:15:00,2024-03-12 8:30:00,752,CARTAO_CREDITO,FALSE,nil,900000,TRUE,nil,...,Sueli Carolina Josefa Moura,
+52,Bio Energia,"Kauan Cardoso Ferreira
+","Rua 9, 959 - Goiânia, GO","(62) 5172-3849
+","585.691.508-90
+",337.996,2023-03-22 18:40:00,2024-01-15 17:30:00,8.94,CARTAO_DEBITO,FALSE,nil,350000,TRUE,2024-01-15 17:30:00,2023-05-15 17:30:00,Luana Isabelle Aparício,
+69,EcoFashion,"Lavinia Martins Gomes
+","Rua Itabirito, 1677 - São Paulo, SP","(11) 9471-9383
+","105.891.291-71
+",252.325,2023-05-07 13:00:00,2024-05-08 15:35:00,0,BOLETO,TRUE,2023-06-10 15:15:00,260000,TRUE,nil,2024-03-08 15:35:00,Samuel Osvaldo Fernandes,
+87,AquaPiscinas,"Douglas Fernandes Oliveira
+","Avenida Epaminondas, 969 - Manaus, AM","(92) 8010-5467
+",688.524.618-25,53.285,2023-07-29 21:55:00,2024-10-09 8:30:00,0,CARTAO_CREDITO,TRUE,2023-08-13 20:00:00,60000,nil,nil,nil,Isabella Mariah Jennifer Carvalho,
+62,VivaBem,"Mateus Sousa Barbosa
+","Rua Umbelina Gomes Vilaça, 1815 - Franca, SP","(16) 6335-5320
+","683.755.264-36
+",218.21,2023-02-12 7:30:00,2024-07-07 15:45:00,8.441,PIX,FALSE,nil,220000,TRUE,2024-07-07 12:45:00,2024-05-07 15:45:00,Letícia Vera Corte Real,
+42,Turbo Logística,"Carla Goncalves Silva
+","Rua Madre Tereza de Calcutá, 1817 - Goiânia, GO",(62) 8528-3332,125.927.423-36,329.457,2023-11-18 11:25:00,2024-04-13 9:00:00,37.549,CARTAO_CREDITO,FALSE,nil,350000,nil,2024-04-13 9:00:00,nil,Sueli Carolina Josefa Moura,
+96,Sabor Culinário,"Bruna Rodrigues Correia
+","Quadra SHCES Quadra 0607 Bloco B, 632 - Cruzeiro, DF","(61) 6455-4723
+","743.373.338-86
+",75.797,2023-12-30 15:10:00,2024-06-07 12:15:00,2.939,PARCELADO,FALSE,nil,80000,TRUE,nil,2024-03-07 12:15:00,Alexandre Leonardo Erick da Cunha,
+81,Arte Viva,Igor Rodrigues Lima,"Praça Rui Barbosa, 1400 - Indaiatuba, SP","(19) 6487-8675
+",141.994.355-30,514.93,2022-04-10 8:50:00,2023-05-15 7:30:00,0,BOLETO,TRUE,2022-04-25 9:25:00,520000,TRUE,2023-05-15 7:30:00,2023-01-15 7:30:00,Luana Isabelle Aparício,
+55,Soluções Digitais,"Julieta Lima Sousa
+","Rua Joel Nascimento Santos, 1652 - Guarujá, SP","(13) 3692-5104
+","809.184.594-43
+",84.791,2022-06-20 17:25:00,2024-08-12 16:00:00,405,CARTAO_CREDITO,FALSE,nil,90000,nil,nil,nil,Samuel Osvaldo Fernandes,
+65,MixCriativo,"Marcos Melo Martins
+","Rua Professora Alice Simões Pires, 1655 - Santa Cruz do Sul, RS","(51) 3430-4711
+","283.179.859-03
+",159.337,2022-08-07 12:15:00,2023-05-01 10:10:00,4.044,CARTAO_CREDITO,FALSE,nil,170000,TRUE,2023-05-01 10:10:00,2023-03-01 10:10:00,Samuel Osvaldo Fernandes,
+23,GreenWay,"Nicolas Barbosa Cardoso
+","Avenida Cibam, 728 - Franco da Rocha, SP",(11) 8470-3969,"263.716.604-54
+",27.21,2022-10-15 20:30:00,2024-09-13 13:35:00,0,PIX,TRUE,2022-10-30 9:10:00,30000,TRUE,nil,2024-07-13 13:35:00,Sueli Carolina Josefa Moura,
+68,Leve Vida,"Amanda Almeida Castro
+","Rua São Gabriel, 1503 - Varginha, MG","(35) 2288-3184
+",272.817.985-98,285.934,2023-02-28 9:55:00,2024-11-19 16:00:00,2.576,CARTAO_DEBITO,FALSE,nil,290000,nil,nil,nil,Isabella Mariah Jennifer Carvalho,
+18,Saúde 360,"Carlos Dias Fernandes
+","Rua Turmalina, 644 - Governador Valadares, MG","(33) 4365-2260
+","730.787.438-53
+",944.502,2023-04-18 14:40:00,2025-02-20 9:40:00,25.988,PARCELADO,FALSE,nil,1000000,TRUE,nil,2025-01-20 9:40:00,Anderson Pedro Henrique Assis,"precisamos processar esse projeto com calma, é muito extenso"
+49,Up Engenharia ,"Otávio Araujo Goncalves
+","Travessa Riobamba, 848 - Rio de Janeiro, RJ",(21) 9301-6390,"325.931.677-93
+",463.209,2023-06-10 11:20:00,2024-02-07 8:15:00,0,BOLETO,TRUE,2023-06-15 17:40:00,500000,TRUE,2024-02-07 8:15:00,2024-01-07 8:15:00,Alexandre Leonardo Erick da Cunha,
 16,Aurora,João da Silva,"Rua das Flores, 123, São Paulo, SP",(11) 98765-4321,123.456.789-00,444.363,2023-05-12 8:02:15,2024-06-30 12:00:00,8.545,PIX,FALSE,nil,460000,TRUE,2024-07-25 15:45:00,2024-06-10 9:00:00,Ana Oliveira,Cliente solicitou alterações no design do produto
 17,Marítimo,Maria Oliveira,"Av. Beira Mar, 456, Rio de Janeiro, RJ",(21) 99876-5432,987.654.321-00,18.555,2023-06-03 9:30:00,2024-08-15 14:00:00,12.555,CARTAO_DEBITO,TRUE,2024-08-10 11:20:00,18000,TRUE,2024-09-20 17:30:00,2024-08-05 13:45:00,Pedro Santos,Cliente expressou satisfação com o andamento do projeto.
-19,TechVision,Pedro Santos,"Rua da Inovação, 789, Porto Alegre, RS",(51) 98765-8765,456.789.123-00,20.571,2023-06-10 10:00:00,2024-04-30 16:00:00,"1.561,",BOLETO,FALSE,nill,25000,FALSE,nill,nill,Carla Oliveira,Projeto está na fase de desenvolvimento de protótipos.
+19,TechVision,Pedro Santos,"Rua da Inovação, 789, Porto Alegre, RS",(51) 98765-8765,456.789.123-00,20.571,2023-06-10 10:00:00,2024-04-30 16:00:00,1.561,BOLETO,FALSE,nill,25000,FALSE,nill,nill,Carla Oliveira,Projeto está na fase de desenvolvimento de protótipos.
 20,Skyline,Ana Pereira,"Av. das Estrelas, 321, Belo Horizonte, MG",(31) 98765-4321,654.321.987-00,66.58,2023-07-10 8:02:15,2024-07-10 8:02:15,0,CARTAO_DEBITO,TRUE,2023-08-10 8:02:15,80000,TRUE,2024-07-10 8:02:15,,Valdenia Pinheiro,
 21,GreenTech,José Oliveira,"Rua das Árvores, 987, Salvador, BA",(71) 98765-2345,321.654.987-00,563.25,2023-07-12 9:30:00,2024-07-12 9:30:00,152.222,BOLETO,FALSE,nill,600000,FALSE,nill,nill,Thamirez Cardoso,
 22,DataSphere,Carla Silva,"Av. dos Dados, 654, Curitiba, PR",(41) 98765-6789,789.123.456-00,465.002,2023-08-10 10:33:00,2024-08-10 10:33:00,88.231,CARTAO_CREDITO,FALSE,nill,500000,TRUE,2024-08-10 10:33:00,2023-09-10 10:33:00,Valdenia Pinheiro,
